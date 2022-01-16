@@ -2,8 +2,10 @@ $(document).ready(function(){
     $("form-group#pizza").submit(function(event){
         event.preventDefault()
 
-        let inputtedPizzaSize = $("select#pizza-size").val()
-        let inputtedPizzaSize = $("select#pizza-crust").val()
-        let inputtedPizzaSize = $("select#barbecue-steak").val()
+        let selectedPizzaSize = $("select#pizza-size").val()
+        let selectedPizzaCrust = $("select#pizza-crust").val()
+        let selectedPizzaTopping = $("select#barbecue-steak").val()
+
+        let pizza = pizza(selectedPizzaSize,selectedPizzaTopping,selectedPizzaCrust)
     })
 })
