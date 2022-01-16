@@ -1,0 +1,10 @@
+.box1{
+    text-align: center;
+    padding:20rem;
+    background-image: url(../images/Pizzaaa.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 220px;
+}
+    
