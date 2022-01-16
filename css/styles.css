@@ -1,3 +1,11 @@
+.body{
+    line-height: 2.0em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px
+}
+.container{
+    margin: auto;
+}
 .box1{
     text-align: center;
     padding:20rem;
@@ -6,5 +14,10 @@
     background-position: center;
     background-attachment: fixed;
     padding-bottom: 220px;
+
 }
     
+.form-group{
+    padding: 20px;
+    padding-left: 0%;
+}
