@@ -9,7 +9,7 @@
 This Web Application helps users to purchase Pizza's online and choose where you want it delivered.
 
  ## SnapShot of the Web Application 
-<img src="images/PizzaReadme.png" width="800px" height="400px">
+<img src="images/Readme.png" width="800px" height="400px">
 
 
 ## Setup instructions
