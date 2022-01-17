@@ -47,14 +47,17 @@
 }
 
 .col-md-6{
-    color: green
+    color: blueviolet
 }
-
+.box2 h1{
+    color: whitesmoke;
+    text-align: center;
+}
 .box2{
     padding-top: 30px;
-    background-image: url("../images/Piztzaa.jpeg");
+    background-image: url("../images/2slices.jpeg");
     background-repeat: no-repeat;
-    background-position: center
+    background-size: cover;
     
     
 }
